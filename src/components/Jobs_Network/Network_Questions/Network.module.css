@@ -1,0 +1,36 @@
+
+.hotText > p:first-child {
+    font-size: 4.5rem;
+    font-weight: 500;
+    margin-bottom: 0;
+    color: rgb(240, 240, 240)
+}
+
+.hotText > p:last-child {
+    position: relative;
+    bottom: 4.5rem;
+    color: rgb(176, 176, 176);
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+.hotText {
+    height: 15vh;
+}
+
+.container {
+  padding-left: 1.5rem;
+}
+
+.questionsList {
+    padding-right: 2rem;
+}
+
+.questionsList > p {
+    color: rgb(0, 119, 255);
+    font-weight: 500;
+}
+
+.questionsList > p:hover {
+    cursor: pointer;
+}

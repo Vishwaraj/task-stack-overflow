@@ -1,0 +1,14 @@
+
+
+.search-container {
+    height: 10vh;
+    /* padding-left: 2rem; */
+}
+
+.search-body {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}

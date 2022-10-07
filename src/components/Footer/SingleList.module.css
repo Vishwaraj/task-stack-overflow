@@ -1,0 +1,13 @@
+
+
+.title {
+    color: gray;
+    font-weight: 500;
+}
+
+.list > p {
+    color: gray;
+    margin-top: .2rem;
+    margin-bottom: .5rem;
+    font-size: .9rem;
+}

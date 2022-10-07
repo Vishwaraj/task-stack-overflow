@@ -1,0 +1,45 @@
+
+.jobTitle > p:first-child {
+  font-size: 1.1rem;
+  font-weight: 500;
+  color: lightseagreen;
+  margin-bottom: 0;
+}
+
+.jobTitle > p:last-child {
+    color: gray;
+    margin-top: .3rem;
+    margin-bottom: 0;
+}
+
+.location {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    color: gray;
+}
+
+.skills {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}
+
+.singleSkill {
+    border: 1px solid lightgray;
+    border-radius: 1rem;
+}
+
+.singleSkill > p {
+    margin-top: 0;
+    margin-bottom: .1rem;
+    padding: 0 .7rem;
+    font-size: .8rem;
+    color: gray;
+}
+
+.container {
+    border-bottom: 1px solid lightgray;
+    padding-bottom: .7rem;
+    width: 20vw;
+}

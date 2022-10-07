@@ -1,0 +1,24 @@
+
+
+.container {
+    margin-top: 2rem;
+    text-align: center;
+    margin-left: 3rem;
+}
+
+.info {
+    width: 40vw;
+    padding-left: 2.3rem;
+    margin-bottom: 3rem;
+}
+
+.info > p:first-child {
+    font-size: 1.5rem;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: gray;
+}
+
+.info > p:last-child {
+    color: gray;
+}
